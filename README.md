@@ -1,4 +1,4 @@
-
+[![Build Status](https://colin-summers.visualstudio.com/Space%20Game%20-%20web%20-%20pipeline/_apis/build/status/csummers88.mslearn-tailspin-spacegame-web?branchName=master)](https://colin-summers.visualstudio.com/Space%20Game%20-%20web%20-%20pipeline/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
